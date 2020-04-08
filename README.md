@@ -5,6 +5,11 @@ A static HTML page that is a shortcut to the most common downloads and requireme
 Used to help students install software.  Appears with tiles and a search menu.
 
 
+# Creating Icons
+
+All icons must be jpg format.  All icons must be 228 x 228 pixels.  All icons must go in `img/icon/`.
+
+
 # Adding New Tiles
 
 There are two types of tiles that can be added.  Either one that goes directly to a website (type 1) or opens a pop up window.
